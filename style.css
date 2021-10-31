@@ -97,6 +97,10 @@ aside p {
   text-align: center;
 }
 
+.myname {
+  text-align: center;
+}
+
 section {
   height: max-content;
   width: 96%;
@@ -151,7 +155,7 @@ footer {
   }
 
   aside p {
-    padding-left: 2em;
+    /* padding-left: 2em; */
     max-width: 65ch;
   }
 
